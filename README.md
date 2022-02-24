@@ -9,4 +9,5 @@ This repository includes activities completed from the bootcamp I attended.  The
 - ShoppingTrip.xlsx
   - Use of the functions SUM and multiplication with formulas that includes renamed cells.
 
--
+- FavoriteColors.xlsx
+  - Use of the function CHOOSE with criteria that includes index-RANDOM and value range-colors to generate a random list of colors.  Use of function COUNTIF for a chart to tally the number of colors in color list. 
